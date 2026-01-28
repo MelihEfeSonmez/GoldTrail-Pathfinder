@@ -4,7 +4,7 @@
 **Gold Trail** is a Java-based navigation engine designed to calculate and visualize the most efficient routes on dynamic grid maps with complex terrain costs. The system processes weighted terrain types to determine the shortest paths between a source and multiple objectives sequentially.
 
 <p align="center">
-  <img src="environment-visualization.png" alt="Environment Visualization" width="700">
+  <img src="images/environment-visualization.png" alt="Environment Visualization" width="700">
   <br>
   <em>Figure 1: Environment visualization</em>
 </p>
@@ -64,7 +64,7 @@ destination coordinates,
 and cumulative cost for the entire journey.
 
 <p align="center">
-  <img src="logging-output.png" alt="Logging Output" width="700">
+  <img src="images/logging-output.png" alt="Logging Output" width="700">
   <br>
   <em>Figure 1: Logging output</em>
 </p>
@@ -74,7 +74,7 @@ Displays total steps and total cost of the entire journey at the end of the outp
 
 ## 📄 Project Report
 For a deep dive into the implementation details and class diagrams, you can view the full report here:
-[📄 Read the Project Report (PDF)](./report.pdf)
+[📄 Read the Project Report (PDF)](./report/report.pdf)
 
 ---
 
