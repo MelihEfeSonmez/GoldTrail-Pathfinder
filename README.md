@@ -66,7 +66,7 @@ and cumulative cost for the entire journey.
 <p align="center">
   <img src="images/logging-output.png" alt="Logging Output" width="700">
   <br>
-  <em>Figure 1: Logging output</em>
+  <em>Figure 2: Logging output</em>
 </p>
 
 ### Final Statistics: 
