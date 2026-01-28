@@ -74,7 +74,7 @@ Displays total steps and total cost of the entire journey at the end of the outp
 
 ## 📄 Project Report
 For a deep dive into the implementation details and class diagrams, you can view the full report here:
-[📄 Read the Project Report (PDF)](./Report.pdf)
+[📄 Read the Project Report (PDF)](./report.pdf)
 
 ---
 
